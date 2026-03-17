@@ -23,7 +23,7 @@
 
 3.  **Inicie os serviços:**
     ```bash
-    docker-compose up -d
+    docker compose up -d
     ```
 
 ## Acesso
